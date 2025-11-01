@@ -264,7 +264,7 @@ export default function HomePage() {
               $SOSPIFY
             </h1>
             <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold text-yellow-400 drop-shadow-lg uppercase tracking-wide mb-12">
-              Join the South Park Universe
+              Join the South Parkifcation
             </h2>
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
               <a
@@ -319,7 +319,7 @@ export default function HomePage() {
                 <Sparkles className="h-10 w-10 text-yellow-400" />
               </div>
               <h1 className="text-5xl md:text-6xl font-black text-white drop-shadow-lg uppercase tracking-wide">
-                Oh My God! You Are In the Suck on SPIFY!
+                Oh My God! You Are In the Suck on southparkify!
               </h1>
               <div className="animate-bounce" style={{ animationDelay: "0.5s" }}>
                 <Sparkles className="h-10 w-10 text-yellow-400" />
