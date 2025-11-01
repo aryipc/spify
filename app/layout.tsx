@@ -7,24 +7,23 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "$SPVERSE - South Park Universe",
+  title: "$SOSPIFY - Sucks On South Parkifcatiocn",
   description:
-    "Join the South Park Universe - Explore a multiverse of mayhem! AI Art Factory and community hub for South Park fans.",
-  generator: "v0.app",
-  keywords: ["South Park", "SPVERSE", "AI Art", "Community", "Memes", "Animation"],
+    "Join the Sucks On South Parkifcatiocn ,
+  keywords: ["South Park", "SOSPIFY", "AI Art", "Community", "Memes", "Animation"],
   authors: [{ name: "SPVERSE Team" }],
-  creator: "SPVERSE",
-  publisher: "SPVERSE",
+  creator: "SOSPIFY",
+  publisher: "SOSPIFY",
   icons: {
     icon: "/favicon.jpg",
     shortcut: "/favicon.jpg",
     apple: "/favicon.jpg",
   },
   openGraph: {
-    title: "$SPVERSE - South Park Universe",
-    description: "Join the South Park Universe - Explore a multiverse of mayhem!",
-    url: "https://spverse.com",
-    siteName: "SPVERSE",
+    title: "$SOSPIFY -  Sucks On South Parkifcatiocn",
+    description: "Join the Sucks On South Parkifcatiocn",
+    url: "https://https://www.southparkify.xyz",
+    siteName: "SOSPIFY",
     images: [
       {
         url: "/favicon.jpg",
@@ -38,10 +37,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "$SPVERSE - South Park Universe",
-    description: "Join the South Park Universe - Explore a multiverse of mayhem!",
+    title: "$SOSPIFY -  Sucks On South Parkifcatiocn",
+    description: "Join the Sucks On South Parkifcatiocn",
     images: ["/favicon.jpg"],
-    creator: "@SouthPark_verse",
+    creator: "@South_Parkify",
   },
   robots: {
     index: true,
