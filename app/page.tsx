@@ -237,8 +237,7 @@ export default function HomePage() {
 
       <div className="absolute inset-0 bg-black/40 z-10"></div>
 
-      <audio ref={audioRef} onEnded={handleAudioEnded} preload="auto"> 
-</audio>
+      <audio ref={audioRef} loop preload="auto">
         <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/spsong-iS4CclHc5gp6d0s6Mp09CAsuarYfYl.MP3" type="audio/mpeg" />
       </audio>
 
