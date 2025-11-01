@@ -264,7 +264,7 @@ export default function HomePage() {
               $SOSPIFY
             </h1>
             <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold text-yellow-400 drop-shadow-lg uppercase tracking-wide mb-12">
-              Join the Sucks On South Parkifcation
+              Join the Sucks On South Parkification
             </h2>
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
               <a

@@ -7,10 +7,10 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "$SOSPIFY - Sucks On South Parkifcatiocn",
+  title: "$SOSPIFY - Sucks On South Parkification",
   description:
     // **FIX IS HERE:** The string now correctly ends with a double quote "
-    "Join the Sucks On South Parkifcatiocn", 
+    "Join the Sucks On South Parkification", 
   keywords: ["South Park", "SOSPIFY", "AI Art", "Community", "Memes", "Animation"],
   authors: [{ name: "SPVERSE Team" }],
   creator: "SOSPIFY",
@@ -21,8 +21,8 @@ export const metadata: Metadata = {
     apple: "/favicon.jpg",
   },
   openGraph: {
-    title: "$SOSPIFY -  Sucks On South Parkifcatiocn",
-    description: "Join the Sucks On South Parkifcatiocn",
+    title: "$SOSPIFY -  Sucks On South Parkification",
+    description: "Join the Sucks On South Parkification",
     // NOTE: I also noticed a potential issue here with "https://https://" in your url. I've left it for you to verify.
     url: "https://https://www.southparkify.xyz", 
     siteName: "SOSPIFY",
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "$SOSPIFY -  Sucks On South Parkifcatiocn",
-    description: "Join the Sucks On South Parkifcatiocn",
+    title: "$SOSPIFY -  Sucks On South Parkification",
+    description: "Join the Sucks On South Parkification",
     images: ["/favicon.jpg"],
     creator: "@South_Parkify",
   },
