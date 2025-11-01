@@ -237,7 +237,12 @@ export default function HomePage() {
 
       <div className="absolute inset-0 bg-black/40 z-10"></div>
 
-      <audio ref={audioRef} onEnded={handleAudioEnded} preload="auto">
+      <audio 
+  ref={audioRef} 
+  loop 
+  preload="auto"
+>
+</audio>
         <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/spsong-iS4CclHc5gp6d0s6Mp09CAsuarYfYl.MP3" type="audio/mpeg" />
       </audio>
 
@@ -264,7 +269,7 @@ export default function HomePage() {
               $SOSPIFY
             </h1>
             <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold text-yellow-400 drop-shadow-lg uppercase tracking-wide mb-12">
-              Join the South Parkifcation
+              Join the Sucks On South Parkifcation
             </h2>
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
               <a
@@ -319,7 +324,7 @@ export default function HomePage() {
                 <Sparkles className="h-10 w-10 text-yellow-400" />
               </div>
               <h1 className="text-5xl md:text-6xl font-black text-white drop-shadow-lg uppercase tracking-wide">
-                Oh My God! You Are In the Suck on southparkify!
+                Oh My God! You Are In the Sucks on southparkify!
               </h1>
               <div className="animate-bounce" style={{ animationDelay: "0.5s" }}>
                 <Sparkles className="h-10 w-10 text-yellow-400" />
