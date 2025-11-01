@@ -261,14 +261,14 @@ export default function HomePage() {
         <section className="min-h-screen flex flex-col items-center justify-center text-center px-4">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-white drop-shadow-lg uppercase tracking-wider mb-6 animate-bounce">
-              $SPVERSE
+              $SOSPIFY
             </h1>
             <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold text-yellow-400 drop-shadow-lg uppercase tracking-wide mb-12">
               Join the South Park Universe
             </h2>
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
               <a
-                href="https://x.com/SouthPark_verse"
+                href="https://x.com/South_Parkify"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4 text-xl
@@ -319,7 +319,7 @@ export default function HomePage() {
                 <Sparkles className="h-10 w-10 text-yellow-400" />
               </div>
               <h1 className="text-5xl md:text-6xl font-black text-white drop-shadow-lg uppercase tracking-wide">
-                Oh My God! You Are In the Universe!
+                Oh My God! You Are In the Suck on SPIFY!
               </h1>
               <div className="animate-bounce" style={{ animationDelay: "0.5s" }}>
                 <Sparkles className="h-10 w-10 text-yellow-400" />
@@ -478,7 +478,7 @@ export default function HomePage() {
           <footer className="text-center py-8 border-t-4 border-yellow-400 bg-yellow-400/20 backdrop-blur-sm">
             <div className="bg-white rounded-lg p-3 border-2 border-white max-w-md mx-auto">
               <p className="text-sm text-black font-bold">
-                Powered by South Park Universe Team (and lots of Cheesy Poofs)
+                Powered by SouthParkify Team (and lots of Cheesy Poofs)
               </p>
             </div>
           </footer>
