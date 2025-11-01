@@ -231,14 +231,14 @@ export default function HomePage() {
         className="fixed inset-0 w-full h-full object-cover z-0"
         style={{ minWidth: "100%", minHeight: "100%" }}
       >
-        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9%E6%9C%8811%E6%97%A5%281%29-kXJ1gsy7cgQHMhAhgDf3WXOOUFF0d6.mp4" type="video/mp4" />
+        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/I7wHyBp6afJlQMFDYD24s_output-u87lldPbTFQQcqFxSTt1rlN8SmdzTV.mp4" type="video/mp4" />
       </video>
 
 
       <div className="absolute inset-0 bg-black/40 z-10"></div>
 
       <audio ref={audioRef} onEnded={handleAudioEnded} preload="auto">
-        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/We%20were%20sittin_%20in%20class_%20watchin_%20Fox%20a-Fl77ZbUMdpw7zahKjYzBS8bBZ26YvS.mp3" type="audio/mpeg" />
+        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/spsong-iS4CclHc5gp6d0s6Mp09CAsuarYfYl.MP3" type="audio/mpeg" />
       </audio>
 
       <div className="fixed top-4 right-4 z-30">
